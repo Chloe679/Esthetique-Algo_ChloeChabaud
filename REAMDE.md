@@ -13,7 +13,9 @@ Pour l'ajout de couleur, j'ai décidé d'en ajouter **aléatoirement et de mani�
 ## Mon projet
 
 ![Texte alternatif](./image-1.png)
-Pour ce premier jour, je voulais travailler avec des cercles et les rotations possibles du plan. J'ai ensuite cherché à rendre mon œuvre interactive, d'où l'ajout de la fonctionnalité `mouseClicked()`, qui ajoute des cercles de couleurs différentes, sans effacer les précédents. Enfin, j'ai ajouté un changement de couleur pour le côté esthétique.
+
+    Pour ce premier jour, je voulais travailler avec des cercles et les rotations possibles du plan. J'ai ensuite cherché à rendre mon œuvre interactive, d'où l'ajout de la fonctionnalité `mouseClicked()`, qui ajoute des cercles de couleurs différentes, sans effacer les précédents. Enfin, j'ai ajouté un changement de couleur pour le côté esthétique.
+
 ![Texte alternatif](./image.png)
 
 ## Crédits
