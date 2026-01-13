@@ -4,6 +4,12 @@
 
 J'ai choisi d'utiliser Processing pour cette semaine. Pour accéder au rendu, il suffit de l'installer et d'ouvrir le fichier `.pde` dedans.
 
+## Exploration (BONUS)
+
+![alt text](image-2.png)
+Pour débuter, j’ai créé, à l’aide d’un automate cellulaire, une forme de “respiration” : une phase d’augmentation des cellules vivantes suivie d’une phase d’augmentation des cellules mortes. Ce premier projet, réalisé en m’appuyant sur des exemples de code et quelques recherches, m’a permis de me familiariser avec le concept.
+![alt text](image-3.png)
+
 ## Mon projet
 
 ![alt text](image.png)
