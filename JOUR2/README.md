@@ -1,4 +1,4 @@
-# Dessin Algorithmique JOUR 1
+# Automate Cellulaire JOUR 2
 
 ## Projet
 
