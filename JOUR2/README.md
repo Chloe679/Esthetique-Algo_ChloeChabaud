@@ -30,4 +30,4 @@ Ces cellules se déplacent selon un ensemble de règles simples :
 ## Crédits
 
 Chloé CHABAUD - IMAC E3  
-ChatGPT - pour aide au débuggage (notamment pour gérer les conditions de l'écoulement de l'eau)
+ChatGPT - pour aide au débogage (notamment pour gérer les conditions de l'écoulement de l'eau)

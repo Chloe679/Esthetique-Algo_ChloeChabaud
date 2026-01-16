@@ -19,4 +19,4 @@ Puis j’ai intégré un effet de zoom, dont l’intensité varie au cours du te
 ## Crédits
 
 Chloé CHABAUD - IMAC E3  
-ChatGPT - pour aide au débuggage et aide pour les calculs permettant la dynamisation.
+ChatGPT - pour aide au débogage et aide pour les calculs permettant la dynamisation.

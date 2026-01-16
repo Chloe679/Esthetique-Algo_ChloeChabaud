@@ -158,7 +158,7 @@ public static String body(){
             you_are = False;}
         else{
             if (you_are){ // phrase courte
-                text.replace(text.length()-1,text.length()+1),": my");//on remplace le dernier . par you
+                text.replace(text.length()-1,text.length()+1),": my"; //on remplace le dernier . par you
                 texte.append(shorter()); 
                 you_are = False;}
             else{
@@ -167,7 +167,7 @@ public static String body(){
         }
     return text;
 }
-
+}
 //ecriture de la lettre
 public static String letter(){
     List<String> text.append(choice(first))
@@ -179,7 +179,7 @@ public static String letter(){
            .append("\n\n");
            
            //signature
-           text.append("                        Yours")
+           text.append("      Yours")
            .append(choice(adverbs))
            .append("\n\n")
            .append("             M.U.C.\n");

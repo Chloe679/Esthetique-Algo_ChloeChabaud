@@ -20,4 +20,4 @@ J’ai rendu l’ensemble interactif en permettant à l’utilisateur de saisir 
 ## Crédits
 
 Chloé CHABAUD - IMAC E3  
-ChatGPT - pour aide au débuggage et aide pour les calculs mathématique pour créer l'ellipse.
+ChatGPT - pour aide au débogage et aide pour les calculs mathématique pour créer l'ellipse.
