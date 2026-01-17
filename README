@@ -1,5 +1,8 @@
 # Dessin Algorithmique JOUR 1
 
+Si possible, merci de prendre en compte le dernier commit du samedi 17 janvier. J’ai malheureusement oublié de modifier mes boucles for (j’ai utilisé lignetot au lieu de lignetot - 1). Sans cette correction, mon code ne s’exécute pas.
+Merci.
+
 ## Projet
 
 J'ai choisi d'utiliser Processing pour cette semaine. Pour accéder au rendu, il suffit de l'installer et d'ouvrir le fichier `.pde` dedans. J'ai aussi utilisé p5.js pour le dernier projet experimental

@@ -49,8 +49,8 @@ void draw() {
   ecoulement();
 
   // affichage 
-  for (int y = 0; y < lignetot; y++) {
-    for (int x = 0; x < coltot; x++) {
+  for (int y = 0; y < lignetot-1; y++) {
+    for (int x = 0; x < coltot-1; x++) {
       if (tab[y][x] == 1) {
         fill(200);}      // plateforme
       else if (tab[y][x] == 2) 
@@ -66,20 +66,20 @@ void ecoulement() {
   int[][] newTab = new int[lignetot][coltot]; // on cree une autre grille pour voir l'écoulement progressivement
 
   // on copie les plateformes ds la nouvelle grille
-  for (int y = 0; y < lignetot; y++) {
-    for (int x = 0; x < coltot; x++) {
+  for (int y = 0; y < lignetot-1; y++) {
+    for (int x = 0; x < coltot-1; x++) {
       if (tab[y][x] == 1) newTab[y][x] = 1;
     }
   }
 
   //écouelement de l'eau   (parcourt de bas en haut)
   for (int y = lignetot - 2; y >= 0; y--) {
-    for (int x = 0; x < coltot; x++) {
+    for (int x = 0; x < coltot-1; x++) {
 
       if (tab[y][x] == 2) {
 
         // tombe en dessous
-        if (y+1 < lignetot && tab[y+1][x] == 0) {
+        if (y+1 < (lignetot-1) && tab[y+1][x] == 0) {
           newTab[y+1][x] = 2;
         }
 
